@@ -1,3 +1,9 @@
-site.com
-site.com
-site.com
+http://www.omed.bg:2082/
+http://www.omed.bg:2082/
+http://www.omed.bg:2082/
+http://www.omed.bg:2082/
+http://www.omed.bg:2082/
+http://www.omed.bg/controlpanel/
+http://www.omed.bg/cpanel/
+http://www.omed.bg/members/
+http://www.omed.bg/myadmin/
